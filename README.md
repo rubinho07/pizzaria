@@ -1,4 +1,4 @@
-# 🍕 Sistema de Pizzaria Web
+#  Sistema de Pizzaria Web
 
 ## Descrição
 
