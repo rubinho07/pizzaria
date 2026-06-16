@@ -128,6 +128,8 @@ git clone https://github.com/seu-usuario/pizzaria.git
 
 Luis Fernando Rubinho Souza
 
+Arthur Zanelato Souza
+
 ## Projeto Acadêmico
 
 Projeto desenvolvido para fins acadêmicos com foco na aplicação de Programação Orientada a Objetos, Banco de Dados e Design Patterns.
